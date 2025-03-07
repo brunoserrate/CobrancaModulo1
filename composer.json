@@ -1,5 +1,6 @@
 {
     "name": "bruno/cobranca-modulo1",
+    "version": "1.0.0",
     "autoload": {
         "psr-4": {
             "Bruno\\CobrancaModulo1\\": "src/"
