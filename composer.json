@@ -1,0 +1,15 @@
+{
+    "name": "bruno/cobranca-modulo1",
+    "autoload": {
+        "psr-4": {
+            "Bruno\\CobrancaModulo1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Bruno Serrate",
+            "email": "brunostj@hotmail.com"
+        }
+    ],
+    "require": {}
+}
