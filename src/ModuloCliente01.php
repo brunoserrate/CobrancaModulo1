@@ -2,9 +2,7 @@
 
 namespace Cliente01;
 
-use Core\Cobranca\CobrancaModulo;
-
-class ModuloCliente01 extends CobrancaModulo
+class ModuloCliente01
 {
     /**
      * Gera um acordo com base nos dados do cliente
