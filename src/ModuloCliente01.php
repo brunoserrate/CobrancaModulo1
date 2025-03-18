@@ -2,7 +2,7 @@
 
 namespace Cliente01;
 
-use Core\Cobranca\CobrancaModuloInterface;
+use CobrancaModuloInterface\Core\CobrancaModuloInterface;
 
 class ModuloCliente01 implements CobrancaModuloInterface
 {

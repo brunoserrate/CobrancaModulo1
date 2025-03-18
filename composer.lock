@@ -4,26 +4,26 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "af81a6131a1cd1fbaa524c9177ffcaf4",
+    "content-hash": "be52a93545d1369dcc1a713d53c9a3ca",
     "packages": [
         {
             "name": "bruno/cobranca-modulo-interface",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/brunoserrate/CobrancaModuloInterface.git",
-                "reference": "a082d4ed560be4cb9432c28ecafb7762d774622d"
+                "reference": "4d1b901071d5ff6f2bed93a75afa8b9b02efcf69"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/brunoserrate/CobrancaModuloInterface/zipball/a082d4ed560be4cb9432c28ecafb7762d774622d",
-                "reference": "a082d4ed560be4cb9432c28ecafb7762d774622d",
+                "url": "https://api.github.com/repos/brunoserrate/CobrancaModuloInterface/zipball/4d1b901071d5ff6f2bed93a75afa8b9b02efcf69",
+                "reference": "4d1b901071d5ff6f2bed93a75afa8b9b02efcf69",
                 "shasum": ""
             },
             "type": "library",
             "autoload": {
                 "psr-4": {
-                    "Bruno\\CobrancaModuloInterface\\": "src/"
+                    "CobrancaModuloInterface\\": "src/"
                 }
             },
             "authors": [
@@ -34,10 +34,10 @@
             ],
             "description": "Interface do modulo core de cobranca",
             "support": {
-                "source": "https://github.com/brunoserrate/CobrancaModuloInterface/tree/v1.0.0",
+                "source": "https://github.com/brunoserrate/CobrancaModuloInterface/tree/v1.0.1",
                 "issues": "https://github.com/brunoserrate/CobrancaModuloInterface/issues"
             },
-            "time": "2025-03-18T01:57:51+00:00"
+            "time": "2025-03-18T03:27:05+00:00"
         }
     ],
     "packages-dev": [],
