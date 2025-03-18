@@ -1,0 +1,52 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "af81a6131a1cd1fbaa524c9177ffcaf4",
+    "packages": [
+        {
+            "name": "bruno/cobranca-modulo-interface",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/brunoserrate/CobrancaModuloInterface.git",
+                "reference": "a082d4ed560be4cb9432c28ecafb7762d774622d"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/brunoserrate/CobrancaModuloInterface/zipball/a082d4ed560be4cb9432c28ecafb7762d774622d",
+                "reference": "a082d4ed560be4cb9432c28ecafb7762d774622d",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Bruno\\CobrancaModuloInterface\\": "src/"
+                }
+            },
+            "authors": [
+                {
+                    "name": "Bruno Serrate",
+                    "email": "brunostj@hotmail.com"
+                }
+            ],
+            "description": "Interface do modulo core de cobranca",
+            "support": {
+                "source": "https://github.com/brunoserrate/CobrancaModuloInterface/tree/v1.0.0",
+                "issues": "https://github.com/brunoserrate/CobrancaModuloInterface/issues"
+            },
+            "time": "2025-03-18T01:57:51+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.6.0"
+}

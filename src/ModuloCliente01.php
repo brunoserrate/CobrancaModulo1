@@ -2,7 +2,9 @@
 
 namespace Cliente01;
 
-class ModuloCliente01
+use Core\Cobranca\CobrancaModuloInterface;
+
+class ModuloCliente01 implements CobrancaModuloInterface
 {
     /**
      * Gera um acordo com base nos dados do cliente
