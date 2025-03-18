@@ -15,5 +15,5 @@ Este módulo **fornece a implementação concreta** das operações de cobrança
 
 ## 🔧 Instalação
 ```bash
-composer require brunoserrate/cobranca-modulo1
+composer require bruno/cobranca-modulo1
 ```
